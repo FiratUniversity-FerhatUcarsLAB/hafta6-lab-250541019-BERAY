@@ -1,4 +1,4 @@
-Ad-Soayd. Beray Akar
+Ad-Soyad: Beray Akar
 Öğrenci No: 250541019
 Proje Adı: Not Sistemi
 Teslim Tarihi: 26.11.2025
@@ -81,4 +81,5 @@ public class Proje1 {
         sc.close();
     }
 }
+
 
