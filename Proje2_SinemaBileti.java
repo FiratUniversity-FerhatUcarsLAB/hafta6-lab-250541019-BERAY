@@ -1,4 +1,4 @@
-Ad-Soayd: Beray Akar
+Ad-Soyad: Beray Akar
 Öğrenci No: 250541019
 Proje Adı: Sinema Bileti 
 Teslim Tarihi: 26.11.2025
@@ -123,3 +123,4 @@ public class Proje2 {
         sc.close();
     }
 }
+
