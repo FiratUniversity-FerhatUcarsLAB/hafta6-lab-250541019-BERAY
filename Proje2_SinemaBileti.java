@@ -1,6 +1,6 @@
 Ad-Soyad: Beray Akar
 Öğrenci No: 250541019
-Proje Adı: Sinema Bileti 
+Proje Adı: Sinema Bileti Fiyatlandırma Sistemi
 Teslim Tarihi: 26.11.2025
 
 
@@ -8,7 +8,7 @@ Teslim Tarihi: 26.11.2025
 
 import java.util.Scanner;
 
-public class Proje2 {
+public class SinemaBiletiFiyatlandırmaSistemi {
 
     // -------------------- METOTLAR --------------------
 
@@ -123,4 +123,5 @@ public class Proje2 {
         sc.close();
     }
 }
+
 
