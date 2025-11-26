@@ -1,13 +1,13 @@
 Ad-Soyad: Beray Akar
 Öğrenci No: 250541019
-Proje Adı: Restoran Sipariş
+Proje Adı: Akıllı Restoran Sipariş Sistemi
 Teslim Tarihi: 26.11.2025
 
 
 
   import java.util.Scanner;
 
-public class Proje3 {
+public class AkıllıRestoranSiparisSistemi {
 
     // -------------------- METOTLAR --------------------
 
@@ -152,5 +152,6 @@ public class Proje3 {
         sc.close();
     }
 }
+
 
 
