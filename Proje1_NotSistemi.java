@@ -1,3 +1,12 @@
+Ad-Soayd. Beray Akar
+Öğrenci No: 250541019
+Proje Adı: Not Sistemi
+Teslim Tarihi: 26.11.2025
+
+
+
+
+
 import java.util.Scanner;
 
 public class Proje1 {
@@ -72,3 +81,4 @@ public class Proje1 {
         sc.close();
     }
 }
+
