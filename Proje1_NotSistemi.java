@@ -1,6 +1,6 @@
 Ad-Soyad: Beray Akar
 Öğrenci No: 250541019
-Proje Adı: Not Sistemi
+Proje Adı: Öğrenci Not Değerlendirme Sistemi
 Teslim Tarihi: 26.11.2025
 
 
@@ -9,7 +9,7 @@ Teslim Tarihi: 26.11.2025
 
 import java.util.Scanner;
 
-public class Proje1 {
+public class OgrenciNotDegerlendirmeSistemi {
 
     // -------------------- METOTLAR --------------------
 
@@ -81,5 +81,6 @@ public class Proje1 {
         sc.close();
     }
 }
+
 
 
